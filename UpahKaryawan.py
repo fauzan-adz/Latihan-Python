@@ -5,6 +5,8 @@
 
 #badan program
 
+#menambahkan komentar
+
 import os
 
 print("")
